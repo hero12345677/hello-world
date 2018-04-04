@@ -1,2 +1,1 @@
-# hello-world
-another repository
+friend this is my first programing
